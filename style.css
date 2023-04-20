@@ -1,0 +1,23 @@
+body {
+text-align: center;
+background: linear-gradient(#e1bee7 0%, #90caf9 100%); 
+background-repeat: no-repeat;
+height: 100%;
+width: 100%;
+}
+
+img {
+ width: 30%;
+ border-radius: 2%;
+}
+
+p {
+font-family: cursive;
+text-shadow: 2px 2px #90caf9;
+font-size: 20px;
+}
+
+h2{
+font-family: Verdana;
+text-shadow: 2px 2px #f99097;
+}
